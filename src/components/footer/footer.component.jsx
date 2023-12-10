@@ -28,13 +28,13 @@ function Footer() {
       </div>
       <div className="m-4">
         <p className="text-sm">
-          © {year} | Code with 💗 by{" "}
+          © {year} | Made with 💗 by{" "}
           <a
-            href="https://github.com/Oh-Bits-Please"
+            href="https://arvrtise.com"
             target="_blank"
             className="font-bold"
           >
-            Oh-Bits-Please
+            Arvrtise
           </a>
           .
         </p>

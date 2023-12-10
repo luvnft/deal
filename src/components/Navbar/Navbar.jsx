@@ -28,7 +28,7 @@ const Navbar = () => {
                 alt="Company logo of an apple and orange"
                 className="w-12 h-12"
               />
-              <h2 className="font-bold text-4xl text-orangeRed">A2O</h2>
+              <h2 className="font-bold text-4xl text-orangeRed">DEAL</h2>
             </Link>
           </div>
           <div className="flex">
